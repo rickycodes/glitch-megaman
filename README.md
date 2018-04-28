@@ -1,6 +1,8 @@
 megaman revisit.link service
 =================================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/rickycodes/glitch-megaman.svg)](https://greenkeeper.io/)
+
 What is this?
 -------------
 
